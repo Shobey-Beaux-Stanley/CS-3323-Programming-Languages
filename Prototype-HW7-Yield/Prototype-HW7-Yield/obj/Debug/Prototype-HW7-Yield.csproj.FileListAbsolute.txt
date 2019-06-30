@@ -1,0 +1,6 @@
+C:\Users\Shobey Stanley\Documents\Programming Projects\C# Programs\Prototype-HW7-Yield\Prototype-HW7-Yield\bin\Debug\Prototype-HW7-Yield.exe.config
+C:\Users\Shobey Stanley\Documents\Programming Projects\C# Programs\Prototype-HW7-Yield\Prototype-HW7-Yield\bin\Debug\Prototype-HW7-Yield.exe
+C:\Users\Shobey Stanley\Documents\Programming Projects\C# Programs\Prototype-HW7-Yield\Prototype-HW7-Yield\bin\Debug\Prototype-HW7-Yield.pdb
+C:\Users\Shobey Stanley\Documents\Programming Projects\C# Programs\Prototype-HW7-Yield\Prototype-HW7-Yield\obj\Debug\Prototype-HW7-Yield.csprojResolveAssemblyReference.cache
+C:\Users\Shobey Stanley\Documents\Programming Projects\C# Programs\Prototype-HW7-Yield\Prototype-HW7-Yield\obj\Debug\Prototype-HW7-Yield.exe
+C:\Users\Shobey Stanley\Documents\Programming Projects\C# Programs\Prototype-HW7-Yield\Prototype-HW7-Yield\obj\Debug\Prototype-HW7-Yield.pdb

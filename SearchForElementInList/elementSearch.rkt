@@ -1,0 +1,8 @@
+#lang racket
+;This will search a list for an element
+(define (list-search input-list input-element)
+        (if (cons? input-list)
+            (if (equal? (car input-list) input-element)
+                (print "element found")
+                (list-search (cdr input-list) input-element))
+            (print "element not found")))

@@ -1,0 +1,7 @@
+C:\Users\Shobey Stanley\Documents\Programming Projects\C# Programs\Prototype-HW6-ListToHtmlTable\Prototype-HW6-ListToHtmlTable\bin\Debug\Prototype-HW6-ListToHtmlTable.exe.config
+C:\Users\Shobey Stanley\Documents\Programming Projects\C# Programs\Prototype-HW6-ListToHtmlTable\Prototype-HW6-ListToHtmlTable\bin\Debug\Prototype-HW6-ListToHtmlTable.exe
+C:\Users\Shobey Stanley\Documents\Programming Projects\C# Programs\Prototype-HW6-ListToHtmlTable\Prototype-HW6-ListToHtmlTable\bin\Debug\Prototype-HW6-ListToHtmlTable.pdb
+C:\Users\Shobey Stanley\Documents\Programming Projects\C# Programs\Prototype-HW6-ListToHtmlTable\Prototype-HW6-ListToHtmlTable\obj\Debug\Prototype-HW6-ListToHtmlTable.csprojResolveAssemblyReference.cache
+C:\Users\Shobey Stanley\Documents\Programming Projects\C# Programs\Prototype-HW6-ListToHtmlTable\Prototype-HW6-ListToHtmlTable\obj\Debug\Prototype-HW6-ListToHtmlTable.exe
+C:\Users\Shobey Stanley\Documents\Programming Projects\C# Programs\Prototype-HW6-ListToHtmlTable\Prototype-HW6-ListToHtmlTable\obj\Debug\Prototype-HW6-ListToHtmlTable.pdb
+C:\Users\Shobey Stanley\Documents\Programming Projects\C# Programs\Prototype-HW6-ListToHtmlTable\Prototype-HW6-ListToHtmlTable\bin\Debug\input.txt
